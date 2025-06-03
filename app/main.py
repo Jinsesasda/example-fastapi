@@ -64,7 +64,7 @@ app.include_router(vote.router)
 # Meaning order does impact the code. 
 @app.get("/")
 def root():
-    return {"message": "Second Version of api Server"}
+    return {"message": "Hello World"}
 
 
 

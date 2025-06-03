@@ -1,0 +1,12 @@
+Automated CI/CD
+
+1. make changes to code 
+
+2. commit changes 
+
+3. pull Source Code  -> Install Dependencies -> Run Automated Tests -> Build images
+
+4. Grab images / code -> Update Production
+
+dskmvkc 
+
